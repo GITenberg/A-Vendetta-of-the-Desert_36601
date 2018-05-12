@@ -1,0 +1,29 @@
+_repo: A-Vendetta-of-the-Desert_36601
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scully, W. C. (William Charles)
+    alias: Scully, William Charles
+    birthdate: 1855
+    deathdate: 1943
+    gutenberg_agent_id: '6225'
+    url: http://www.gutenberg.org/2009/agents/6225
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Afrikaners -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'South African fiction (English)'
+title: A Vendetta of the Desert
+url: http://www.gutenberg.org/ebooks/36601
